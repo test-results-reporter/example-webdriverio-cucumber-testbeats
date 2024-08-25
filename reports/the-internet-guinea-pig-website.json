@@ -5,7 +5,7 @@
     "description": "",
     "line": 1,
     "name": "The Internet Guinea Pig Website",
-    "uri": "/Users/anudeep/Documents/my/repos/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
+    "uri": "/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
     "tags": [],
     "elements": [
       {
@@ -20,7 +20,7 @@
             "arguments": [],
             "keyword": "Before",
             "name": "",
-            "result": { "status": "passed", "duration": 0 },
+            "result": { "status": "passed", "duration": 1000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -28,7 +28,7 @@
             "arguments": [],
             "keyword": "Given",
             "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 3099000000 },
+            "result": { "status": "passed", "duration": 3487000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -36,7 +36,7 @@
             "arguments": [],
             "keyword": "When",
             "name": "I login with tomsmith and SuperSecretPassword!",
-            "result": { "status": "passed", "duration": 557000000 },
+            "result": { "status": "passed", "duration": 654000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -44,7 +44,7 @@
             "arguments": [],
             "keyword": "Then",
             "name": "I should see a flash message saying You logged into a secure area!",
-            "result": { "status": "passed", "duration": 13000000 },
+            "result": { "status": "passed", "duration": 14000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -78,7 +78,7 @@
             "arguments": [],
             "keyword": "Given",
             "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 288000000 },
+            "result": { "status": "passed", "duration": 300000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -86,244 +86,7 @@
             "arguments": [],
             "keyword": "When",
             "name": "I login with foobar and barfoo",
-            "result": { "status": "passed", "duration": 550000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then",
-            "name": "I should see a flash message saying Your username is invalid!",
-            "result": { "status": "passed", "duration": 10000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "After",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          }
-        ]
-      }
-    ],
-    "id": "the-internet-guinea-pig-website",
-    "metadata": {
-      "browser": { "name": "firefox", "version": "131.0a1" },
-      "device": "Device name not known",
-      "platform": { "name": "osx", "version": "Version not known" }
-    }
-  },
-  {
-    "keyword": "Feature",
-    "type": "feature",
-    "description": "",
-    "line": 1,
-    "name": "The Internet Guinea Pig Website",
-    "uri": "/Users/anudeep/Documents/my/repos/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
-    "tags": [],
-    "elements": [
-      {
-        "keyword": "Scenario",
-        "type": "scenario",
-        "description": "",
-        "name": "As a user, I can log into the secure area",
-        "tags": [],
-        "id": "the-internet-guinea-pig-websiteas-a-user,-i-can-log-into-the-secure-area",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Before",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given",
-            "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 3291000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "When",
-            "name": "I login with tomsmith and SuperSecretPassword!",
-            "result": { "status": "passed", "duration": 655000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then",
-            "name": "I should see a flash message saying You logged into a secure area!",
-            "result": { "status": "passed", "duration": 24000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "After",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          }
-        ]
-      },
-      {
-        "keyword": "Scenario",
-        "type": "scenario",
-        "description": "",
-        "name": "As a user, I can log into the secure area",
-        "tags": [],
-        "id": "the-internet-guinea-pig-websiteas-a-user,-i-can-log-into-the-secure-area",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Before",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given",
-            "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 262000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "When",
-            "name": "I login with foobar and barfoo",
-            "result": { "status": "passed", "duration": 569000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then",
-            "name": "I should see a flash message saying Your username is invalid!",
-            "result": { "status": "passed", "duration": 21000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "After",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          }
-        ]
-      }
-    ],
-    "id": "the-internet-guinea-pig-website",
-    "metadata": {
-      "browser": {
-        "name": "chrome-headless-shell",
-        "version": "127.0.6533.120"
-      },
-      "device": "Device name not known",
-      "platform": { "name": "osx", "version": "Version not known" }
-    }
-  },
-  {
-    "keyword": "Feature",
-    "type": "feature",
-    "description": "",
-    "line": 1,
-    "name": "The Internet Guinea Pig Website",
-    "uri": "/Users/anudeep/Documents/my/repos/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
-    "tags": [],
-    "elements": [
-      {
-        "keyword": "Scenario",
-        "type": "scenario",
-        "description": "",
-        "name": "As a user, I can log into the secure area",
-        "tags": [],
-        "id": "the-internet-guinea-pig-websiteas-a-user,-i-can-log-into-the-secure-area",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Before",
-            "name": "",
-            "result": { "status": "passed", "duration": 1000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given",
-            "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 4141000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "When",
-            "name": "I login with tomsmith and SuperSecretPassword!",
-            "result": { "status": "passed", "duration": 577000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then",
-            "name": "I should see a flash message saying You logged into a secure area!",
-            "result": { "status": "passed", "duration": 13000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "After",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          }
-        ]
-      },
-      {
-        "keyword": "Scenario",
-        "type": "scenario",
-        "description": "",
-        "name": "As a user, I can log into the secure area",
-        "tags": [],
-        "id": "the-internet-guinea-pig-websiteas-a-user,-i-can-log-into-the-secure-area",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Before",
-            "name": "",
-            "result": { "status": "passed", "duration": 0 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "Given",
-            "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 258000000 },
-            "line": null,
-            "match": { "location": "can not be determined with webdriver.io" }
-          },
-          {
-            "arguments": [],
-            "keyword": "When",
-            "name": "I login with foobar and barfoo",
-            "result": { "status": "passed", "duration": 570000000 },
+            "result": { "status": "passed", "duration": 666000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -339,7 +102,7 @@
             "arguments": [],
             "keyword": "After",
             "name": "",
-            "result": { "status": "passed", "duration": 0 },
+            "result": { "status": "passed", "duration": 1000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           }
@@ -359,7 +122,7 @@
     "description": "",
     "line": 1,
     "name": "The Internet Guinea Pig Website",
-    "uri": "/Users/anudeep/Documents/my/repos/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
+    "uri": "/test-results-reporter/example-webdriverio-cucumber-testbeats/features/login.feature",
     "tags": [],
     "elements": [
       {
@@ -382,7 +145,7 @@
             "arguments": [],
             "keyword": "Given",
             "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 3264000000 },
+            "result": { "status": "passed", "duration": 3312000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -390,7 +153,7 @@
             "arguments": [],
             "keyword": "When",
             "name": "I login with tomsmith and SuperSecretPassword!",
-            "result": { "status": "passed", "duration": 1457000000 },
+            "result": { "status": "passed", "duration": 740000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -398,7 +161,7 @@
             "arguments": [],
             "keyword": "Then",
             "name": "I should see a flash message saying You logged into a secure area!",
-            "result": { "status": "passed", "duration": 24000000 },
+            "result": { "status": "passed", "duration": 27000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -406,7 +169,7 @@
             "arguments": [],
             "keyword": "After",
             "name": "",
-            "result": { "status": "passed", "duration": 1000000 },
+            "result": { "status": "passed", "duration": 0 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           }
@@ -432,7 +195,7 @@
             "arguments": [],
             "keyword": "Given",
             "name": "I am on the login page",
-            "result": { "status": "passed", "duration": 271000000 },
+            "result": { "status": "passed", "duration": 296000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -440,7 +203,7 @@
             "arguments": [],
             "keyword": "When",
             "name": "I login with foobar and barfoo",
-            "result": { "status": "passed", "duration": 588000000 },
+            "result": { "status": "passed", "duration": 582000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -448,7 +211,7 @@
             "arguments": [],
             "keyword": "Then",
             "name": "I should see a flash message saying Your username is invalid!",
-            "result": { "status": "passed", "duration": 21000000 },
+            "result": { "status": "passed", "duration": 25000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           },
@@ -456,7 +219,7 @@
             "arguments": [],
             "keyword": "After",
             "name": "",
-            "result": { "status": "passed", "duration": 0 },
+            "result": { "status": "passed", "duration": 1000000 },
             "line": null,
             "match": { "location": "can not be determined with webdriver.io" }
           }
